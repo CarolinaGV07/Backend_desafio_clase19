@@ -17,3 +17,24 @@
 {"level":"fatal","message":"Error al cambiar a usuario premium","timestamp":"2023-10-22T23:56:17.635Z"}
 {"level":"fatal","message":"Error al cambiar a usuario premium","timestamp":"2023-10-22T23:56:31.285Z"}
 {"level":"fatal","message":"Error al cambiar a usuario premium","timestamp":"2023-10-22T23:57:23.795Z"}
+{"level":"fatal","message":"Error al obtener los productos","timestamp":"2023-10-26T22:47:37.363Z"}
+{"level":"fatal","message":"Error al obtener los productos","timestamp":"2023-10-26T22:47:44.091Z"}
+{"level":"fatal","message":"Error al loguear el usuario","timestamp":"2023-10-26T22:48:13.502Z"}
+{"level":"fatal","message":"Error al loguear el usuario","timestamp":"2023-10-26T22:48:24.504Z"}
+{"level":"fatal","message":"Error al loguear el usuario","timestamp":"2023-10-26T22:49:18.167Z"}
+{"level":"fatal","message":"Error al loguear el usuario","timestamp":"2023-10-26T22:49:35.372Z"}
+{"level":"fatal","message":"Error al loguear el usuario","timestamp":"2023-10-26T22:50:47.482Z"}
+{"level":"fatal","message":"Error al loguear el usuario","timestamp":"2023-10-26T22:51:44.701Z"}
+{"level":"fatal","message":"Error al loguear el usuario","timestamp":"2023-10-26T22:52:24.243Z"}
+{"level":"fatal","message":"Error al loguear el usuario","timestamp":"2023-10-26T22:52:50.330Z"}
+{"level":"fatal","message":"Error al loguear el usuario","timestamp":"2023-10-26T22:52:57.242Z"}
+{"level":"fatal","message":"Error al loguear el usuario","timestamp":"2023-10-26T22:53:16.520Z"}
+{"level":"fatal","message":"Error al loguear el usuario","timestamp":"2023-10-26T22:53:29.751Z"}
+{"level":"fatal","message":"Error al obtener los productos","timestamp":"2023-10-29T00:36:15.535Z"}
+{"level":"fatal","message":"Error al obtener los productos","timestamp":"2023-10-29T00:38:17.390Z"}
+{"level":"fatal","message":"Error al obtener los productos","timestamp":"2023-10-29T00:38:21.078Z"}
+{"level":"fatal","message":"Error al obtener los productos","timestamp":"2023-11-02T23:34:35.106Z"}
+{"level":"fatal","message":"Error al obtener los productos","timestamp":"2023-11-03T00:54:03.779Z"}
+{"level":"fatal","message":"Error al obtener los productos","timestamp":"2023-11-03T00:54:07.669Z"}
+{"level":"fatal","message":"Error al obtener el ticket","timestamp":"2023-11-03T23:12:57.762Z"}
+{"level":"fatal","message":"Error al obtener el ticket","timestamp":"2023-11-03T23:13:05.690Z"}
