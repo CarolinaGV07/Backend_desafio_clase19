@@ -1,5 +1,5 @@
 import passport from "passport";
-import GitHubStrategy from "passport-github";
+import GitHubStrategy from "passport-github2";
 import { generateToken } from "../utils.js";
 import jwt from "passport-jwt";
 import { userService, cartService } from "../services/index.js";

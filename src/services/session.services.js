@@ -92,6 +92,7 @@ export default class SessionServices {
     const user = await this.userDAO.getUserByEmail(email);
     if (user) {
       const token = jwt.sign({ email }, "secret", { expiresIn: "1h" });
+      console.log(user,config.USER,config.PASS,token)
       const mailOptions = {
         from: config.USER,
         to: email,
